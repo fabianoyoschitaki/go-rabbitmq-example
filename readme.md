@@ -2,6 +2,7 @@
 
 ## Go application
 go mod init github.com/fabianoyoschitaki/go-rabbitmq-fullcycle
+
 go get github.com/wagslane/go-rabbitmq
 
 ### publisher: go run producer/main.go
